@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+    "review": "A gripping psychological thriller that keeps you guessing until the final page.",
+    "totalPages": 336,
+    "rating": 4.5,
+    "category": "Thriller",
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Celadon Books",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": 2,
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f",
+    "review": "A practical guide on how small habits can lead to remarkable life changes.",
+    "totalPages": 320,
+    "rating": 4.8,
+    "category": "Self Improvement",
+    "tags": ["Motivation", "Productivity"],
+    "publisher": "Avery",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 3,
+    "bookName": "Deep Work",
+    "author": "Cal Newport",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+    "review": "An insightful book about focusing deeply in a distracted world.",
+    "totalPages": 304,
+    "rating": 4.6,
+    "category": "Productivity",
+    "tags": ["Focus", "Career"],
+    "publisher": "Grand Central Publishing",
+    "yearOfPublishing": 2016
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d",
+    "review": "A timeless story about dreams, destiny, and self-discovery.",
+    "totalPages": 208,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Philosophical", "Adventure"],
+    "publisher": "HarperOne",
+    "yearOfPublishing": 1988
+  },
+  {
+    "bookId": 5,
+    "bookName": "Start With Why",
+    "author": "Simon Sinek",
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+    "review": "Explains how great leaders inspire action by starting with purpose.",
+    "totalPages": 256,
+    "rating": 4.4,
+    "category": "Business",
+    "tags": ["Leadership", "Inspiration"],
+    "publisher": "Portfolio",
+    "yearOfPublishing": 2009
+  },
+  {
+    "bookId": 6,
+    "bookName": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+    "review": "A fascinating exploration of how our minds make decisions.",
+    "totalPages": 499,
+    "rating": 4.3,
+    "category": "Psychology",
+    "tags": ["Cognitive", "Behavioral"],
+    "publisher": "Farrar, Straus and Giroux",
+    "yearOfPublishing": 2011
+  }
+]
